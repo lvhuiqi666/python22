@@ -3,3 +3,4 @@ def func():
 
 func()
 hello python
+hello no python 
